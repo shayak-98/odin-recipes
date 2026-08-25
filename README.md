@@ -7,3 +7,4 @@ List of ingredients ,And the steps.
 
 Deployment Link:
 https://odin-recipes-rho-ten.vercel.app/
+*Still not responsive(Learning)
