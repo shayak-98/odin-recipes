@@ -37,7 +37,9 @@ nav h1{
     height: 600px;
     /* width: 600px; */
     padding: 67px;
-    background-image: url(images/main.png);
+    background-image:linear-gradient(rgba(255, 255,
+
+255, 0.4)),url("images/main.png");
     background-size: cover;
     background-position: cover;
    }
@@ -100,4 +102,9 @@ img{
     height: 400px;
     width: 400x;
     margin: 30px auto;
+}
+.m{
+    padding: 2px;
+    margin: 30px;
+    font-size: 30px;
 }
