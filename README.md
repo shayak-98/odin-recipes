@@ -8,3 +8,4 @@ List of ingredients ,And the steps.
 Deployment Link:
 https://odin-recipes-rho-ten.vercel.app/
 *Still not responsive(Learning)
+*Other 3 hyperlinks are not styled now.will do soon after learning flex-box
